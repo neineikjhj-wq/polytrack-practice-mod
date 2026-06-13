@@ -1,8 +1,10 @@
 {
-    "name": "Practice Menu",
-    "author": "you",
-    "id": "practicemenu",
-    "latest": {
-        "0.6.2": "1.0.0"
-    }
+    "polymod": {
+        "name": "Practice Menu",
+        "id": "practicemenu",
+        "author": "you",
+        "targets": ["0.5.1"],
+        "main": "main.mod.js"
+    },
+    "dependencies": []
 }
